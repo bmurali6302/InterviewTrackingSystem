@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/hrpanelservice/pom.xml" />
+        <option value="$PROJECT_DIR$/customerservice/pom.xml" />
+        <option value="$PROJECT_DIR$/employeeservice/pom.xml" />
+        <option value="$PROJECT_DIR$/techpanelservice/pom.xml" />
+        <option value="$PROJECT_DIR$/panelmemberservice/pom.xml" />
+        <option value="$PROJECT_DIR$/interviewscheduleservice/pom.xml" />
+        <option value="$PROJECT_DIR$/candidateservice/pom.xml" />
+        <option value="$PROJECT_DIR$/AdminServer/pom.xml" />
+        <option value="$PROJECT_DIR$/welcome/pom.xml" />
+        <option value="$PROJECT_DIR$/Greet/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
